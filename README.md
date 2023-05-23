@@ -27,7 +27,7 @@ Michel Caballero : [LinkedIn/Michel] | [GitHub/MichiCaballero07] | [Twitter/Mich
 
 [Article]: <https://www.linkedin.com/>
 [Holberton School]: <https://www.holbertonschool.com>
-[LinkedIn/Camilo]: <https://www.linkedin.com/>
+[LinkedIn/JuanD]: <https://www.linkedin.com/>
 [LinkedIn/Michel]: <https://www.linkedin.com/in/michelcaballerogranado>
 [GitHub/JDaniel26-Bory]: <https://github.com/JDaniel26-Bory>
 [GitHub/MichiCaballero07]: <https://github.com/MichiCaballero07>
@@ -43,12 +43,10 @@ Michel Caballero : [LinkedIn/Michel] | [GitHub/MichiCaballero07] | [Twitter/Mich
 
 
 * ![GitHub Contributors Image](https://contrib.rocks/image?repo=SANTIAGOH22/holbertonschool-low_level_programming)
- - <a href="https://github.com/JDaniel26-Bory" target="_blank"> @JDaniel26-Bory</a> :genie_man:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JDaniel26-Bory&show_icons=true)
+ - <a href="https://github.com/JDaniel26-Bory" target="_blank"> @JDaniel26-Bory</a> :genie_man:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JDaniel26-Bory&show_icons=true)
 
 
 * ![GitHub Contributors Image](https://contrib.rocks/image?repo=MichiCaballero07/holbertonschool-low_level_programming) 
-Michel Caballero - <a href="https://github.com/MichiCaballero07" target="_blank"> @MichiCaballero07</a> :genie_woman:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MichiCaballero07&show_icons=true)
+Michel Caballero - <a href="https://github.com/MichiCaballero07" target="_blank"> @MichiCaballero07</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MichiCaballero07&show_icons=true)
 ***
 
